@@ -2,7 +2,7 @@
 
 ### Software Developer | Technical Consultant
 
-I'm a Computer Science student based in Melbourne, Australia, with a strong interest in software engineering, cloud architecture, and building scalable applications.
+I'm a recently graduated computer science major based in Melbourne, Australia, with a strong interest in software engineering, cloud architecture, and building scalable applications.
 
 I enjoy working across the full software development lifecycle — from designing system architectures and developing backend services to building user interfaces and deploying applications to the cloud.
 
