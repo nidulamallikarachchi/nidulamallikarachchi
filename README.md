@@ -66,7 +66,6 @@ I enjoy working across the full software development lifecycle — from designin
 
 <p align="left">
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Microsoft Azure"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>
 <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/></a>
@@ -99,10 +98,3 @@ I enjoy working across the full software development lifecycle — from designin
 
 - **AI Contribution Assessment Tool** — An AI-powered platform for analysing student contributions using GitHub activity and uploaded supporting evidence.
 - **KeyDocs Mobile** — A cross-platform mobile application built with React Native, Expo, and TypeScript.
-- **Cloud Infrastructure** — Infrastructure provisioning and deployment workflows using Azure, Terraform, Docker, and GitHub Actions.
-
----
-
-<p align="center">
-<i>Always learning, building, and exploring new technologies.</i>
-</p>
